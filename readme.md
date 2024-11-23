@@ -1,7 +1,8 @@
 ### 工具用途
 这款工具的主要目的是去爆破日常测试中的JWT密钥，因为传统的爆破方式在java后端中可能存在一些，导致爆破无法成功  
 具体原理可以看文章  
-https://www.yuque.com/honghong-h6nk2/kb/zbcrkwbh4z4bk7u5?singleDoc
+https://www.yuque.com/honghong-h6nk2/kb/zbcrkwbh4z4bk7u5?singleDoc  
+(目前只实现java8的)
 ### 场景
 ● 服务端是 java 编写的应用程序  
 ● 服务端的 jjwt 组件版本在 0.9.1（目前只验证过此版本，更高版本或许也可以）以下  
